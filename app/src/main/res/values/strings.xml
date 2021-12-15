@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Heads Up Game!</string>
+    <string name = "Data">The score is </string>
+    <string name="DataShP">Score of game </string>
+</resources>
